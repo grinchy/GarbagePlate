@@ -115,6 +115,35 @@ Each set list below is a listing of the songs we practiced for a period of time.
 		- [Guitar Tab]()
 		- [Guitar tutorial]()
 		- [Guitar solo tutorial]()
+
+
+## Upcoming songs
+- **Gov't Mule**
+	- **Banks Of The Deep End**
+		- **Status**: LEARNING 
+		- [Official Track](https://www.youtube.com/watch?v=X0oBuFUzFcg)
+		- [Guitar tutorial](https://www.youtube.com/watch?v=lMef05oCdSA)
+	- **Beautifully Broken**
+		- **Status**: LEARNING
+		- [Official Track](https://www.youtube.com/watch?v=O27bAg-AY3s)
+- **Kenny Wayne Shepherd**
+	- **True Lies**
+		- **Status**: Learning 
+		- [Official Track](https://www.youtube.com/watch?v=QETIXLChB4w)
+		- [Guitar tutorial](https://www.youtube.com/watch?v=u4v2NULu2v8)
+	- **Blue On Black**
+		- **Status**: Learning 
+		- [Official Track](https://www.youtube.com/watch?v=V94pBlA4n7U)
+		- [Guitar Tab]()
+		- [Guitar tutorial]()
+		- [Guitar solo tutorial]()
+- **Big Head Todd And The Monsters**
+	- **Broken Hearted Savior**
+		- [Official Track](https://www.youtube.com/watch?v=Trggg9HzF7Y)
+	- **Please Don't Tell Her**
+		- [Official Track](https://www.youtube.com/watch?v=OErusYC4rGY)
+	- **It's Alright**
+		- [Official Track](https://www.youtube.com/watch?v=stxAn8kF5Og)
 - **BAND**
 	- **SONG**
 		- **Status**: PRACTICING 
