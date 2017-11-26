@@ -134,9 +134,6 @@ Each set list below is a listing of the songs we practiced for a period of time.
 	- **Blue On Black**
 		- **Status**: Learning 
 		- [Official Track](https://www.youtube.com/watch?v=V94pBlA4n7U)
-		- [Guitar Tab]()
-		- [Guitar tutorial]()
-		- [Guitar solo tutorial]()
 - **Big Head Todd And The Monsters**
 	- **Broken Hearted Savior**
 		- **Status**: Learning 
