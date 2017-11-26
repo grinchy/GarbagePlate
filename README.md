@@ -6,8 +6,8 @@ Garbage Plate is a band formed in Rochester, New York in October 2017. They most
 Currently we have:
 
 - Chris on guitar & vocals
-- Steve on guitar and any vocals that make him look like a jackass
 - Justin on bass, drums and your mom
+- Steve on guitar and any vocals that make him look like a jackass
 - Bobtroy on drums and probably crack cocaine
 
 ## Set Lists
