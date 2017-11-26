@@ -139,10 +139,13 @@ Each set list below is a listing of the songs we practiced for a period of time.
 		- [Guitar solo tutorial]()
 - **Big Head Todd And The Monsters**
 	- **Broken Hearted Savior**
+		- **Status**: Learning 
 		- [Official Track](https://www.youtube.com/watch?v=Trggg9HzF7Y)
 	- **Please Don't Tell Her**
+		- **Status**: Learning 
 		- [Official Track](https://www.youtube.com/watch?v=OErusYC4rGY)
 	- **It's Alright**
+		- **Status**: Learning 
 		- [Official Track](https://www.youtube.com/watch?v=stxAn8kF5Og)
 - **BAND**
 	- **SONG**
